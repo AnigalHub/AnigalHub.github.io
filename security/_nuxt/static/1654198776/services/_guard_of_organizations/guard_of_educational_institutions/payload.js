@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/services/_guard_of_organizations/guard_of_educational_institutions", {data:[{}],fetch:[],mutations:void 0});
