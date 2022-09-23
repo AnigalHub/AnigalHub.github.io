@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+    <canvas id="myCanvas" width="1200" height="900">
+    </canvas>
+    <div id="ModalWindowEnd" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Игра завершена!</p>
+            <p id="win"></p>
+            <p id="sum_score"></p>
+            <p id="max"></p>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="bundle.js"></script>
+</body>
+</html>
+<style>
+    /*блок под рисование игры*/
+   canvas{
+       background-color:#eee;
+       width: 100%;
+   }
+   /*абзац*/
+   p{
+       text-align: center;
+       font-size: 1.25rem;
+   }
+   /*модальное окно*/
+   .modal {
+       display: none;
+       position: fixed;
+       z-index: 1;
+       padding-top: 210px;
+       background-color: rgba(0,0,0,0.4);
+   }
+   /*контент модального окна*/
+   .modal-content {
+       margin: auto;
+       padding: 20px;
+       border: 1px solid #888;
+       width: 55%;
+   }
+   /*кнопка - "Х" в модальном окне*/
+   .close {
+       color: #aaaaaa;
+       margin-left: auto;
+       font-size: 28px;
+   }
+   /*кнопка при наведении и в фокусе - "Х" в модальном окне*/
+   .close:hover,
+   .close:focus {
+       color: #000;
+       cursor: pointer;
+   }
+</style>
