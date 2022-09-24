@@ -1,0 +1,17 @@
+{
+  "FormSubmission": {
+    "description": "Auto imported from components/form_submission.vue"
+  },
+  "Products": {
+    "description": "Auto imported from components/products.vue"
+  },
+  "Sorting": {
+    "description": "Auto imported from components/sorting.vue"
+  },
+  "SvgBasket": {
+    "description": "Auto imported from components/svg/basket.vue"
+  },
+  "SvgPoint": {
+    "description": "Auto imported from components/svg/point.vue"
+  }
+}

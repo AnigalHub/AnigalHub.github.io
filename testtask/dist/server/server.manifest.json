@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/form-submission.js": "components/form-submission.js",
+    "components/products.js": "components/products.js",
+    "components/sorting.js": "components/sorting.js",
+    "components/svg-basket.js": "components/svg-basket.js",
+    "components/svg-point.js": "components/svg-point.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/form-submission.js": "components/form-submission.js.map",
+    "components/products.js": "components/products.js.map",
+    "components/sorting.js": "components/sorting.js.map",
+    "components/svg-basket.js": "components/svg-basket.js.map",
+    "components/svg-point.js": "components/svg-point.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
