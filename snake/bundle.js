@@ -230,13 +230,13 @@ function StartGame(){
         }
         // проверка если змея врежется в саму себя
         for (let i = 1; i < bodySnake.length; i++) {
-            if((bodySnake[0].left_indent === bodySnake[i].left_indent) && (bodySnake[0].top_indent === bodySnake[i].top_indent)){
+            if((bodySnake[0].left_indent == bodySnake[i].left_indent)&&(bodySnake[0].top_indent == bodySnake[i].top_indent)){
                 document.getElementById("win").innerHTML = "Вы проиграли!"; // выводим фразу о проигрыше
                 GameOver();
             }
         }
         //проверка на заполненность поля полностью змеей
-        if(grid.width_field*grid.height_field === bodySnake.length){
+        if(grid.width_field*grid.height_field == bodySnake.length){
             document.getElementById("win").innerHTML = "Вы выиграли!"; // выводим фразу о выигрыше
             GameOver();
         }
