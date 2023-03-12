@@ -1,0 +1,45 @@
+{
+  "name_company": "#polyakovsteam",
+  "Tournaments":[
+    {
+      "src": "./tournaments/3.jpg",
+      "date":"18 марта 2023",
+      "name":"MUSCLE BATTLE 2. КАСТИНГ",
+      "address":"Москва"
+    },
+    {
+      "src": "./tournaments/2.jpg",
+      "date":"30 апреля 2023",
+      "name":"ГРАН-ПРИ ЛЮБЕР-2023",
+      "address":"Москва, Большая Новодмитровская, 36 с. 24. УРБАН"
+    },
+    {
+      "src": "./tournaments/1.jpg",
+      "date":"13 мая 2023",
+      "name":"GRAND PRIX NBC 8",
+      "address":"Орджоникидзе, д. 11 стр. 1. ГЛАВCLUB"
+    }
+  ],
+  "Portfolio":[
+    {"src": "./portfolio/16.jpg", "alt": "GRAND PRIX NBC 7","link": "https://nbcpro.ru/events/grand-prix-nbc-7/"},
+    {"src": "./portfolio/15.jpg", "alt": "GRAND PRIX MOSCOW","link": "https://nbcpro.ru/events/grand-prix-moscow/"},
+    {"src": "./portfolio/14.jpg", "alt": "MUSCLE_BATTLE_КАСТИНГ","link": "https://nbcpro.ru/events/muscle-battle-kasting/"},
+    {"src": "./portfolio/13.jpg", "alt": "GRAND_PRIX NBC_6","link": "https://nbcpro.ru/events/grand-prix-nbc-6/"},
+    {"src": "./portfolio/12.jpg", "alt": "Гран-При_Евпатия_3","link": "https://nbcpro.ru/events/gran-pri-evpatiya-kolovrata-i-avdoti-ryazanochki-30-04-22/"},
+    {"src": "./portfolio/11.jpg", "alt": "GRAND_PRIX_NBC_5","link": "https://nbcpro.ru/events/grand-prix-nbc-5/"},
+    {"src": "./portfolio/10.jpg", "alt": "Grand_Prix_Golden_Ring","link": "https://nbcpro.ru/events/grand-prix-golden-ring-13-11-2021/"},
+    {"src": "./portfolio/9.jpg", "alt": "GRAND_PRIX_SN_PRO","link": "https://nbcpro.ru/events/grand-prix-sn-pro/"},
+    {"src": "./portfolio/8.jpg", "alt": "GRAND_PRIX_NBC_4","link": "https://nbcpro.ru/events/grand-prix-nbc-4/"},
+    {"src": "./portfolio/7.jpg", "alt": "Гран-При_Евпатия_2","link": "https://nbcpro.ru/events/gran-pri-evpatiya-kolovrata-i-avdoti-ryazanochki-15-05-21/"},
+    {"src": "./portfolio/6.jpg", "alt": "Grand_Prix_Russia_3","link": "https://nbcpro.ru/events/grand-prix-russia-3-5-12-2020/"},
+    {"src": "./portfolio/5.jpg", "alt": "Grand_Prix_TULA","link": "https://nbcpro.ru/events/grand-prix-tula/"},
+    {"src": "./portfolio/4.jpg", "alt": "Grand_Prix_Russia_2","link": "https://nbcpro.ru/events/grand-prix-russia-2/"},
+    {"src": "./portfolio/3.jpg", "alt": "Grand_Prix_KremLin","link": "https://nbcpro.ru/events/grand-prix-kremlin/"},
+    {"src": "./portfolio/2.jpg", "alt": "Grand_Prix_Russia","link": "https://nbcpro.ru/events/grand-prix-russia/"},
+    {"src": "./portfolio/1.jpg", "alt": "Гран-При_Евпатия","link": "https://nbcpro.ru/events/gran-pri-evpatiya-kolovrata-i-avdoti-ryazanochki/"}
+  ],
+  "mail": "polyakovsteam@mail.ru",
+  "phone": "+7(968)-824-80-96",
+  "instagram": "polyakovs_team",
+  "instagram_address": "https://instagram.com/polyakovs_team?igshid=YmMyMTA2M2Y="
+}
