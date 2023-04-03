@@ -2,8 +2,14 @@
   "name_company": "#polyakovsteam",
   "Tournaments":[
     {
+      "src": "./tournaments/4.jpg",
+      "date":"29 апреля 2023",
+      "name":"CLASSIC BATTLE",
+      "address":"Москва"
+    },
+    {
       "src": "./tournaments/3.jpg",
-      "date":"18 марта 2023",
+      "date":"2 апреля 2023",
       "name":"MUSCLE BATTLE 2. КАСТИНГ",
       "address":"Москва"
     },
