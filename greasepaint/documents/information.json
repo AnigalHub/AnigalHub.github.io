@@ -2,35 +2,23 @@
   "name_company": "#polyakovsteam",
   "Tournaments":[
     {
-      "src": "./tournaments/4.jpg",
-      "date":"29 апреля 2023",
-      "name":"CLASSIC BATTLE",
-      "address":"Москва"
-    },
-    {
-      "src": "./tournaments/3.jpg",
-      "date":"2 апреля 2023",
-      "name":"MUSCLE BATTLE 2. КАСТИНГ",
-      "address":"Москва"
-    },
-    {
-      "src": "./tournaments/2.jpg",
-      "date":"30 апреля 2023",
-      "name":"ГРАН-ПРИ ЛЮБЕР-2023",
-      "address":"Москва, Большая Новодмитровская, 36 с. 24. УРБАН"
-    },
-    {
       "src": "./tournaments/1.jpg",
       "date":"13 мая 2023",
       "name":"GRAND PRIX NBC 8",
-      "address":"Орджоникидзе, д. 11 стр. 1. ГЛАВCLUB"
+      "city": "Москва",
+      "address":"Орджоникидзе, д. 11 стр. 1. ГЛАВCLUB",
+      "link": "https://nbcpro.ru/events/grand-prix-nbc-8/"
     }
   ],
   "Portfolio":[
-    {"src": "./portfolio/16.jpg", "alt": "GRAND PRIX NBC 7","link": "https://nbcpro.ru/events/grand-prix-nbc-7/"},
-    {"src": "./portfolio/15.jpg", "alt": "GRAND PRIX MOSCOW","link": "https://nbcpro.ru/events/grand-prix-moscow/"},
+    {"src": "./portfolio/20.jpg", "alt": "ГРАН-ПРИ_ЛЮБЕР-2023","link": "https://nbcpro.ru/events/gran-pri-lyuber-2023/"},
+    {"src": "./portfolio/19.jpg", "alt": "CLASSIC_BATTLE","link": "https://nbcpro.ru/events/classic-battle/"},
+    {"src": "./portfolio/18.jpg", "alt": "MUSCLE_BATTLE_2_КАСТИНГ","link": "https://nbcpro.ru/events/muscle-battle-2-kasting/"},
+    {"src": "./portfolio/17.jpg", "alt": "ПРОКАЧ_ШОУ","link": "https://nbcpro.ru/events/prokach-shou-semki-19-marta/"},
+    {"src": "./portfolio/16.jpg", "alt": "GRAND_PRIX_NBC_7","link": "https://nbcpro.ru/events/grand-prix-nbc-7/"},
+    {"src": "./portfolio/15.jpg", "alt": "GRAND_PRIX_MOSCOW","link": "https://nbcpro.ru/events/grand-prix-moscow/"},
     {"src": "./portfolio/14.jpg", "alt": "MUSCLE_BATTLE_КАСТИНГ","link": "https://nbcpro.ru/events/muscle-battle-kasting/"},
-    {"src": "./portfolio/13.jpg", "alt": "GRAND_PRIX NBC_6","link": "https://nbcpro.ru/events/grand-prix-nbc-6/"},
+    {"src": "./portfolio/13.jpg", "alt": "GRAND_PRIX_NBC_6","link": "https://nbcpro.ru/events/grand-prix-nbc-6/"},
     {"src": "./portfolio/12.jpg", "alt": "Гран-При_Евпатия_3","link": "https://nbcpro.ru/events/gran-pri-evpatiya-kolovrata-i-avdoti-ryazanochki-30-04-22/"},
     {"src": "./portfolio/11.jpg", "alt": "GRAND_PRIX_NBC_5","link": "https://nbcpro.ru/events/grand-prix-nbc-5/"},
     {"src": "./portfolio/10.jpg", "alt": "Grand_Prix_Golden_Ring","link": "https://nbcpro.ru/events/grand-prix-golden-ring-13-11-2021/"},
