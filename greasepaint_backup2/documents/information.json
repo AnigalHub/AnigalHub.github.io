@@ -3,15 +3,14 @@
   "Tournaments":[
     {
       "src": "./tournaments/1.jpg",
-      "date":"5 ноября 2023",
-      "name":"GRAND PRIX NBC 9",
+      "date":"13 мая 2023",
+      "name":"GRAND PRIX NBC 8",
       "city": "Москва",
-      "address":"Орджоникидзе, д. 11 стр. 1. BASE",
-      "link": "https://nbcpro.ru/events/grand-prix-nbc-9/"
+      "address":"Орджоникидзе, д. 11 стр. 1. ГЛАВCLUB",
+      "link": "https://nbcpro.ru/events/grand-prix-nbc-8/"
     }
   ],
   "Portfolio":[
-    {"src": "./portfolio/21.jpg", "alt": "GRAND_PRIX_NBC_8","link": "https://nbcpro.ru/events/grand-prix-nbc-8/"},
     {"src": "./portfolio/20.jpg", "alt": "ГРАН-ПРИ_ЛЮБЕР-2023","link": "https://nbcpro.ru/events/gran-pri-lyuber-2023/"},
     {"src": "./portfolio/19.jpg", "alt": "CLASSIC_BATTLE","link": "https://nbcpro.ru/events/classic-battle/"},
     {"src": "./portfolio/18.jpg", "alt": "MUSCLE_BATTLE_2_КАСТИНГ","link": "https://nbcpro.ru/events/muscle-battle-2-kasting/"},
