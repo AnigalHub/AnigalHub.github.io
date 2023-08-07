@@ -8,6 +8,22 @@
       "city": "Москва",
       "address":"Орджоникидзе, д. 11 стр. 1. BASE",
       "link": "https://nbcpro.ru/events/grand-prix-nbc-9/"
+    },
+    {
+      "src": "./tournaments/2.jpg",
+      "date":"29 октября 2023",
+      "name":"MUSCLE BATTLE",
+      "city": "Москва",
+      "address":"Новый Арбат, 21. ARBAT HALL",
+      "link": "https://nbcpro.ru/events/muscle-battle-29-10-2023/"
+    },
+    {
+      "src": "./tournaments/3.jpg",
+      "date":"22 октября 2023",
+      "name":"GRAND PRIX INFERNO",
+      "city": "Москва",
+      "address":"Новый Арбат, 21. ARBAT HALL",
+      "link": "https://nbcpro.ru/events/grand-prix-inferno/"
     }
   ],
   "Portfolio":[
