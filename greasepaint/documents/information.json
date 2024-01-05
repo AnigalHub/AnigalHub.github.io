@@ -3,30 +3,24 @@
   "Tournaments":[
     {
       "src": "./tournaments/1.jpg",
-      "date":"5 ноября 2023",
-      "name":"GRAND PRIX NBC 9",
+      "date":"5 мая 2024",
+      "name":"ГРАН-ПРИ ЛЮБЕР-2024",
       "city": "Москва",
-      "address":"Орджоникидзе, д. 11 стр. 1. BASE",
-      "link": "https://nbcpro.ru/events/grand-prix-nbc-9/"
+      "address":"ул. Новый Арбат, 21. ARBAT HALL",
+      "link": "https://nbcpro.ru/events/gran-pri-lyuber-2024/"
     },
     {
       "src": "./tournaments/2.jpg",
-      "date":"29 октября 2023",
-      "name":"MUSCLE BATTLE",
+      "date":"19 мая 2024",
+      "name":"GRAND PRIX NBC X. 19.05.2024",
       "city": "Москва",
-      "address":"Новый Арбат, 21. ARBAT HALL",
-      "link": "https://nbcpro.ru/events/muscle-battle-29-10-2023/"
-    },
-    {
-      "src": "./tournaments/3.jpg",
-      "date":"22 октября 2023",
-      "name":"GRAND PRIX INFERNO",
-      "city": "Москва",
-      "address":"Новый Арбат, 21. ARBAT HALL",
-      "link": "https://nbcpro.ru/events/grand-prix-inferno/"
+      "address":"VK STADIUM. Ленинградский проспект 80, корп. 17",
+      "link": "https://nbcpro.ru/events/grand-prix-nbc-x-19-05-2024/"
     }
   ],
   "Portfolio":[
+    {"src": "./portfolio/23.jpg", "alt": "GRAND PRIX NBC 9","link": "https://nbcpro.ru/events/grand-prix-nbc-9/"},
+    {"src": "./portfolio/22.jpg", "alt": "GRAND PRIX INFERNO","link": "https://nbcpro.ru/events/grand-prix-inferno/"},
     {"src": "./portfolio/21.jpg", "alt": "GRAND_PRIX_NBC_8","link": "https://nbcpro.ru/events/grand-prix-nbc-8/"},
     {"src": "./portfolio/20.jpg", "alt": "ГРАН-ПРИ_ЛЮБЕР-2023","link": "https://nbcpro.ru/events/gran-pri-lyuber-2023/"},
     {"src": "./portfolio/19.jpg", "alt": "CLASSIC_BATTLE","link": "https://nbcpro.ru/events/classic-battle/"},
