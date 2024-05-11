@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1715376514",layout:"default",error:null,state:{Themes:{types:[{name:"Светлая тема",type:a},{name:"Темная тема",type:"dark"}],currentTheme:a,systemTheme:a}},serverRendered:true,routePath:"\u002F",config:{}}}("light"));
