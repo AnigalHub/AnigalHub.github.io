@@ -3,22 +3,36 @@
   "Tournaments":[
     {
       "src": "./tournaments/1.jpg",
-      "date":"5 мая 2024",
-      "name":"ГРАН-ПРИ ЛЮБЕР-2024",
+      "date":"4 мая 2025",
+      "name":"NBC BATTLE 4.05.2025",
       "city": "Москва",
       "address":"ул. Новый Арбат, 21. ARBAT HALL",
-      "link": "https://nbcpro.ru/events/gran-pri-lyuber-2024/"
+      "link": "https://nbcpro.ru/events/nbc-battle-4-05-2025/"
     },
     {
       "src": "./tournaments/2.jpg",
-      "date":"19 мая 2024",
-      "name":"GRAND PRIX NBC X. 19.05.2024",
+      "date":"11 мая 2025",
+      "name":"ГРАН-ПРИ ЛЮБЕР-2025 11.05.2025",
       "city": "Москва",
-      "address":"VK STADIUM. Ленинградский проспект 80, корп. 17",
-      "link": "https://nbcpro.ru/events/grand-prix-nbc-x-19-05-2024/"
+      "address":"ул. Новый Арбат, 21. ARBAT HALL",
+      "link": "https://nbcpro.ru/events/gran-pri-lyuber-2025-11-05-2025/"
+    },
+    {
+      "src": "./tournaments/3.jpg",
+      "date":"24 мая 2025",
+      "name":"GRAND PRIX NBC 12. 24.05.2025",
+      "city": "Москва",
+      "address":"ул. Орджоникидзе, д. 11 стр. 1. BASE",
+      "link": "https://nbcpro.ru/events/grand-prix-nbc-12-24-05-2025/"
     }
   ],
   "Portfolio":[
+    {"src": "./portfolio/29.jpg", "alt": "NBC PARTY","link": "https://nbcpro.ru/events/nbc-party/"},
+    {"src": "./portfolio/28.jpg", "alt": "NBC 11 EXPO","link": "https://nbcpro.ru/events/nbc-11-expo-01-12-2024/"},
+    {"src": "./portfolio/27.jpg", "alt": "GRAND PRIX OXY","link": "https://nbcpro.ru/events/grand-prix-oxy-24-11-2024/"},
+    {"src": "./portfolio/26.jpg", "alt": "GRAND PRIX INFERNO","link": "https://nbcpro.ru/events/grand-prix-inferno-17-11-2024/"},
+    {"src": "./portfolio/25.jpg", "alt": "GRAND PRIX NBC X","link": "https://nbcpro.ru/events/grand-prix-nbc-x-19-05-2024/"},
+    {"src": "./portfolio/24.jpg", "alt": "ГРАН-ПРИ ЛЮБЕР-2024","link": "hhttps://nbcpro.ru/events/gran-pri-lyuber-2024/"},
     {"src": "./portfolio/23.jpg", "alt": "GRAND PRIX NBC 9","link": "https://nbcpro.ru/events/grand-prix-nbc-9/"},
     {"src": "./portfolio/22.jpg", "alt": "GRAND PRIX INFERNO","link": "https://nbcpro.ru/events/grand-prix-inferno/"},
     {"src": "./portfolio/21.jpg", "alt": "GRAND_PRIX_NBC_8","link": "https://nbcpro.ru/events/grand-prix-nbc-8/"},
